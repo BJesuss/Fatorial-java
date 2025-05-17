@@ -1,3 +1,4 @@
+package fatorial.src.main.java.com.breno;
 public class Fatorial { 
 
     public static long calcularFatorial(int numero) {
